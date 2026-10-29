@@ -1,0 +1,11 @@
+beautifulsoup4
+kagglehub[pandas-datasets]
+lxml
+matplotlib
+nltk
+numpy
+pandas
+pyspellchecker
+requests
+scikit-learn
+seaborn
