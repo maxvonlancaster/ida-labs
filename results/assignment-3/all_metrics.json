@@ -1,0 +1,86 @@
+[
+  {
+    "task": "co2",
+    "target": "CO2_Emissions",
+    "degree": 1,
+    "train_rows": 748,
+    "validation_rows": 187,
+    "MAE": 28.56091661300185,
+    "RMSE": 37.96946308348306,
+    "R2": 0.6421051742475723,
+    "baseline_R2": -0.017862677809916017
+  },
+  {
+    "task": "ice_cream",
+    "target": "Ice Cream Sales (units)",
+    "degree": 2,
+    "train_rows": 39,
+    "validation_rows": 10,
+    "MAE": 3.1886394693845768,
+    "RMSE": 3.7815582796195812,
+    "R2": 0.849158480565441,
+    "baseline_R2": -0.38254837400091724
+  },
+  {
+    "task": "power",
+    "target": "PowerConsumption_Zone1",
+    "degree": 1,
+    "train_rows": 41932,
+    "validation_rows": 10484,
+    "MAE": 5091.740989277855,
+    "RMSE": 6002.037217252353,
+    "R2": 0.05259355410311106,
+    "baseline_R2": -0.3408586419013553
+  },
+  {
+    "task": "power",
+    "target": "PowerConsumption_Zone2",
+    "degree": 1,
+    "train_rows": 41932,
+    "validation_rows": 10484,
+    "MAE": 5244.038082232976,
+    "RMSE": 6830.903029730365,
+    "R2": -0.5516354281247722,
+    "baseline_R2": -0.2643650705285445
+  },
+  {
+    "task": "power",
+    "target": "PowerConsumption_Zone3",
+    "degree": 1,
+    "train_rows": 41932,
+    "validation_rows": 10484,
+    "MAE": 5513.681127127305,
+    "RMSE": 6282.720954347997,
+    "R2": -2.6268469575756814,
+    "baseline_R2": -4.732333572405593
+  },
+  {
+    "task": "heart",
+    "selected_model": "SGDClassifier, k=all",
+    "train_rows": 241,
+    "validation_rows": 61,
+    "accuracy": 0.7868852459016393,
+    "F1": 0.7868852459016393,
+    "ROC_AUC": 0.920995670995671,
+    "baseline_accuracy": 0.5409836065573771
+  },
+  {
+    "task": "cell_samples",
+    "accuracy": 0.946236559139785,
+    "F1_macro": 0.9461369164832618,
+    "ROC_AUC": 0.962962962962963,
+    "train_rows": 370,
+    "validation_rows": 93
+  },
+  {
+    "task": "coursera_reviews",
+    "model": "LogisticRegression",
+    "train_rows": 79106,
+    "validation_rows": 19777,
+    "accuracy": 0.6949992415432068,
+    "F1_macro": 0.43686526504774414,
+    "F1_weighted": 0.716460393995475,
+    "baseline_accuracy": 0.7306972746119229,
+    "baseline_F1_macro": 0.1688792801215379
+  }
+]

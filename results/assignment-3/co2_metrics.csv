@@ -1,0 +1,2 @@
+task,target,degree,train_rows,validation_rows,MAE,RMSE,R2,baseline_R2
+co2,CO2_Emissions,1,748,187,28.56091661300185,37.96946308348306,0.6421051742475723,-0.017862677809916017

@@ -1,0 +1,2 @@
+task,target,degree,train_rows,validation_rows,MAE,RMSE,R2,baseline_R2
+ice_cream,Ice Cream Sales (units),2,39,10,3.1886394693845768,3.7815582796195812,0.849158480565441,-0.38254837400091724
