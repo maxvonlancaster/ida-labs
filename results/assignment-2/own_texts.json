@@ -1,0 +1,24 @@
+{
+  "texts": [
+    "A React frontend application displays product cards. The backend API receives requests and stores data in PostgreSQL.",
+    "Frontend developers build React components while backend developers implement the application API and database queries.",
+    "Testing a web application includes frontend components, backend requests, database transactions and user authentication.",
+    "A handmade marketplace connects artists and customers. Sellers publish jewellery with photos and buyers place orders.",
+    "Artists sell handmade jewellery in an online marketplace. Customers choose products, pay for orders and write reviews.",
+    "A seller updates handmade product availability. The customer checks jewellery photos, delivery time and the order status.",
+    "The weather station measures temperature, humidity and wind speed. Rain is expected after a warm afternoon.",
+    "Weather forecasts describe rain, temperature and wind. Humidity rises when clouds cover the city.",
+    "A cold wind brings rain to the city. The weather station records lower temperature and higher humidity."
+  ],
+  "processed": [
+    "react frontend application display product card backend application program interface receives request store data postgresql",
+    "frontend developer build react component backend developer implement application application program interface database query",
+    "test web application include frontend component backend request database transaction user authentication",
+    "handmade marketplace connects artist customer seller publish jeweller photo buyer place order",
+    "artist sell handmade jeweller online marketplace customer choose product pay order write review",
+    "seller update handmade product availability customer check jeweller photos delivery time order status",
+    "weather station measure temperature humidity wind speed rain expect warm afternoon",
+    "weather forecast describe rain temperature wind humidity rise cloud cover city",
+    "cold wind bring rain city weather station record low temperature high humidity"
+  ]
+}

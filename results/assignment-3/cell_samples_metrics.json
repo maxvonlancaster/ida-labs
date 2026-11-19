@@ -1,0 +1,8 @@
+{
+  "task": "cell_samples",
+  "accuracy": 0.946236559139785,
+  "F1_macro": 0.9461369164832618,
+  "ROC_AUC": 0.962962962962963,
+  "train_rows": 370,
+  "validation_rows": 93
+}

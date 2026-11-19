@@ -1,0 +1,4 @@
+feature,scaler,outlier_fraction
+Price,MinMax,0.0
+Rating,Robust,0.4039431453461715
+Discount,MinMax,0.0

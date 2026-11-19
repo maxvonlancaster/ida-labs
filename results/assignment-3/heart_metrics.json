@@ -1,0 +1,10 @@
+{
+  "task": "heart",
+  "selected_model": "SGDClassifier, k=all",
+  "train_rows": 241,
+  "validation_rows": 61,
+  "accuracy": 0.7868852459016393,
+  "F1": 0.7868852459016393,
+  "ROC_AUC": 0.920995670995671,
+  "baseline_accuracy": 0.5409836065573771
+}

@@ -1,0 +1,45 @@
+{
+  "ilayaraja07/data-cleaning-feature-imputation/versions/1/Students_Performance_knn.csv": {
+    "source": "https://www.kaggle.com/datasets/ilayaraja07/data-cleaning-feature-imputation",
+    "file": "Students_Performance_knn.csv",
+    "sha256": "ce3872e464576fc9845d1fa49bbcd8058ae93abefde95855fe2adf0000bf81a8",
+    "bytes": 56777,
+    "rows": 1000,
+    "columns": [
+      "gender",
+      "race/ethnicity",
+      "parental level of education",
+      "lunch",
+      "test preparation course",
+      "math score",
+      "reading score",
+      "writing score"
+    ]
+  },
+  "himelsarder/retail-product-dataset-with-missing-values/versions/1/synthetic_dataset.csv": {
+    "source": "https://www.kaggle.com/datasets/himelsarder/retail-product-dataset-with-missing-values",
+    "file": "synthetic_dataset.csv",
+    "sha256": "89374f14c408efa2d594ffd6c1cef618a596dbdf4c4a150eebf5a9dc1fa737d8",
+    "bytes": 133686,
+    "rows": 4362,
+    "columns": [
+      "Category",
+      "Price",
+      "Rating",
+      "Stock",
+      "Discount"
+    ]
+  },
+  "septa97/100k-courseras-course-reviews-dataset/versions/2/reviews.csv": {
+    "source": "https://www.kaggle.com/datasets/septa97/100k-courseras-course-reviews-dataset",
+    "file": "reviews.csv",
+    "sha256": "b8e7acdec24901f645d81a87196e3305263e7f6fe50ea2398a9ac92fc55b382f",
+    "bytes": 16763599,
+    "rows": 107018,
+    "columns": [
+      "Id",
+      "Review",
+      "Label"
+    ]
+  }
+}

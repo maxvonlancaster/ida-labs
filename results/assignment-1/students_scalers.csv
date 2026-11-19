@@ -1,0 +1,4 @@
+feature,scaler,outlier_fraction
+math score,MinMax,0.008
+reading score,MinMax,0.006
+writing score,MinMax,0.005

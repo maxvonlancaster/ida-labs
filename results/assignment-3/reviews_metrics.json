@@ -1,0 +1,11 @@
+{
+  "task": "coursera_reviews",
+  "model": "LogisticRegression",
+  "train_rows": 79106,
+  "validation_rows": 19777,
+  "accuracy": 0.6949992415432068,
+  "F1_macro": 0.43686526504774414,
+  "F1_weighted": 0.716460393995475,
+  "baseline_accuracy": 0.7306972746119229,
+  "baseline_F1_macro": 0.1688792801215379
+}

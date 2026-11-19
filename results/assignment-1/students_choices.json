@@ -1,0 +1,8 @@
+{
+  "imputation": {
+    "math score": "knn",
+    "reading score": "knn",
+    "writing score": "knn"
+  },
+  "excluded_identifiers": []
+}

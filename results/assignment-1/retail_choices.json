@@ -1,0 +1,8 @@
+{
+  "imputation": {
+    "Discount": "mean",
+    "Price": "median",
+    "Rating": "mean"
+  },
+  "excluded_identifiers": []
+}
