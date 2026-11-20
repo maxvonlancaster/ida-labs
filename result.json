@@ -1,0 +1,91 @@
+{
+    "numFound": 44,
+    "start": 0,
+    "numFoundExact": true,
+    "num_found": 44,
+    "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+    "q": "web scraping",
+    "offset": null,
+    "docs": [
+        {
+            "author_name": [
+                "Ryan Mitchell"
+            ],
+            "edition_count": 5,
+            "first_publish_year": 2015,
+            "title": "Web Scraping with Python"
+        },
+        {
+            "author_name": [
+                "Anish Chapagain"
+            ],
+            "edition_count": 4,
+            "first_publish_year": 2019,
+            "title": "Hands-On Web Scraping with Python"
+        },
+        {
+            "author_name": [
+                "Gurpreet Kaur"
+            ],
+            "edition_count": 1,
+            "first_publish_year": 2022,
+            "title": "Web Scraping with Beautiful Soup"
+        },
+        {
+            "author_name": [
+                "Andy Vickler"
+            ],
+            "edition_count": 2,
+            "first_publish_year": 2021,
+            "title": "Python"
+        },
+        {
+            "author_name": [
+                "Richard Lawson"
+            ],
+            "edition_count": 1,
+            "first_publish_year": 2015,
+            "title": "Web Scraping with Python"
+        },
+        {
+            "author_name": [
+                "Seppe vanden Broucke"
+            ],
+            "edition_count": 1,
+            "first_publish_year": 2018,
+            "title": "Practical Web Scraping for Data Science: Best Practices and Examples with Python"
+        },
+        {
+            "author_name": [
+                "Enrique Vicente"
+            ],
+            "edition_count": 1,
+            "first_publish_year": 2018,
+            "title": "Web Scraping for SEO with Python"
+        },
+        {
+            "author_name": [
+                "Ryan Mitchell"
+            ],
+            "edition_count": 1,
+            "first_publish_year": 2024,
+            "title": "Web Scraping with Python 3e"
+        },
+        {
+            "author_name": [
+                "Vincent Smith"
+            ],
+            "edition_count": 2,
+            "first_publish_year": 2019,
+            "title": "Go Web Scraping Quick Start Guide"
+        },
+        {
+            "author_name": [
+                "Matthew Turland"
+            ],
+            "edition_count": 1,
+            "first_publish_year": 2010,
+            "title": "PHPArchitects Guide to Web Scraping"
+        }
+    ]
+}
