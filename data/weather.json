@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2024-08-19",
+    "city": "Chernivtsi",
+    "temperature_c": 27.4,
+    "humidity_percent": 48,
+    "precipitation_mm": 0.0,
+    "wind_speed_kmh": 11.2
+  },
+  {
+    "date": "2024-08-20",
+    "city": "Chernivtsi",
+    "temperature_c": 26.1,
+    "humidity_percent": 52,
+    "precipitation_mm": 0.2,
+    "wind_speed_kmh": 9.8
+  },
+  {
+    "date": "2024-08-21",
+    "city": "Chernivtsi",
+    "temperature_c": 24.8,
+    "humidity_percent": 61,
+    "precipitation_mm": 1.4,
+    "wind_speed_kmh": 13.5
+  }
+]
